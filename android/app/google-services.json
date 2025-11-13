@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "977791497859",
+    "project_id": "voyagemate-351d2",
+    "storage_bucket": "voyagemate-351d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977791497859:android:e3715682dbc4afc57a8db6",
+        "android_client_info": {
+          "package_name": "com.voagemate.voyagemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977791497859-fsaff6n2jqob77ihs156vj6mknf89je8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldls7-1u-f6MI9Kf5VQ6VJTHF61IhNAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977791497859-fsaff6n2jqob77ihs156vj6mknf89je8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977791497859-i6p0nmkjk68tk13lc2aoln545sfga3vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voagemate.voyagemate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
